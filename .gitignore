@@ -1,7 +1,15 @@
 # OSX
 #
 .DS_Store
-
+.env
+my-release-key.keystore
+/android/app/my-release-key.keystore
+android/
+ios/
+node_modules/
+.expo/
+.env
+*.log
 # Xcode
 #
 build/
